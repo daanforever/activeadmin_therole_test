@@ -1,6 +1,6 @@
 require 'git'
 
-desc "Cleanup all (git reset and git clean)"
+desc "Cleanup all\n - git reset\n - git clean\n - rake db:drop\n - rake db:create"
 task :clean do
   g = Git.open('.', :log => Logger.new(STDOUT))
   g.clean(force: true, d: true)
