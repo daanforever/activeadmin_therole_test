@@ -37,6 +37,10 @@ gem 'the_role', path: '../the_role'
 
 gem 'activeadmin_the_role', path: '../activeadmin_the_role'
 
+group :development do
+  gem 'ruby-git'
+end
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
