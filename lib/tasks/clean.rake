@@ -1,7 +1,8 @@
 require 'git'
 
-desc "cleanup all"
+desc "Cleanup all (git reset and git clean)"
 task :clean do
-  Git.clean(:force, :d)
-  Git.reset(:hard)
+  g = Git.open('.', :log => Logger.new(STDOUT))
+  g.clean(force: true, d: true)
+  g.reset('HEAD', hard: true)
 end
