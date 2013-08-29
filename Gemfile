@@ -38,7 +38,7 @@ gem 'the_role', path: '../the_role'
 gem 'activeadmin_the_role', path: '../activeadmin_the_role'
 
 group :development do
-  gem 'ruby-git'
+  gem 'git'
 end
 
 # Use ActiveModel has_secure_password
