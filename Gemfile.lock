@@ -1,11 +1,4 @@
 GIT
-  remote: git://github.com/daanforever/the_role.git
-  revision: fe749ee7a99ae47a3244b86fd69a4b63bea96d7f
-  specs:
-    the_role (2.1.0)
-      haml
-
-GIT
   remote: git://github.com/gregbell/active_admin.git
   revision: 72a9c30cef47b3f38c38039de021aaa3194c188b
   branch: rails4
@@ -29,6 +22,12 @@ PATH
   specs:
     activeadmin_the_role (0.0.1)
       rails (>= 4.0.0)
+
+PATH
+  remote: ../the_role
+  specs:
+    the_role (2.1.0)
+      haml
 
 GEM
   remote: https://rubygems.org/

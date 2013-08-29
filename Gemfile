@@ -33,7 +33,7 @@ group :doc do
 end
 
 gem 'activeadmin', github: 'gregbell/active_admin', branch: 'rails4'
-gem 'the_role', github: 'daanforever/the_role'
+gem 'the_role', path: '../the_role'
 
 gem 'activeadmin_the_role', path: '../activeadmin_the_role'
 
