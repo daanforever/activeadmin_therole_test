@@ -18,9 +18,9 @@ GIT
       sass-rails (>= 3.2.0)
 
 PATH
-  remote: ../activeadmin_the_role
+  remote: ../activeadmin-therole
   specs:
-    activeadmin_the_role (0.0.1)
+    activeadmin-therole (0.0.1)
       rails (>= 4.0.0)
 
 PATH
@@ -184,7 +184,7 @@ PLATFORMS
 
 DEPENDENCIES
   activeadmin!
-  activeadmin_the_role!
+  activeadmin-therole!
   coffee-rails (~> 4.0.0)
   git
   jbuilder (~> 1.2)

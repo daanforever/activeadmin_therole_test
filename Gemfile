@@ -35,7 +35,7 @@ end
 gem 'activeadmin', github: 'gregbell/active_admin', branch: 'rails4'
 gem 'the_role', path: '../the_role'
 
-gem 'activeadmin_the_role', path: '../activeadmin_the_role'
+gem 'activeadmin-therole', path: '../activeadmin-therole'
 
 group :development do
   gem 'git'
