@@ -38,7 +38,10 @@ gem 'the_role', path: '../the_role'
 gem 'activeadmin-therole', path: '../activeadmin-therole'
 
 group :development do
+  gem 'thin'
   gem 'git'
+  gem 'better_errors'
+  gem 'binding_of_caller'
 end
 
 # Use ActiveModel has_secure_password
