@@ -1,7 +1,7 @@
-{<img src="https://secure.travis-ci.org/daanforever/gem1day.png?branch=master" />}[http://travis-ci.org/daanforever/gem1day]
-{<img src="https://codeclimate.com/github/daanforever/gem1day.png" />}[https://codeclimate.com/github/daanforever/gem1day]
-{<img src="https://gemnasium.com/daanforever/gem1day.png" />}[https://gemnasium.com/daanforever/gem1day]
-{<img src="https://coveralls.io/repos/daanforever/gem1day/badge.png?branch=master" />}[https://coveralls.io/r/daanforever/gem1day?branch=master]
+{<img src="https://secure.travis-ci.org/daanforever/activeadmin_therole_test.png?branch=master" />}[http://travis-ci.org/daanforever/activeadmin_therole_test]
+{<img src="https://codeclimate.com/github/daanforever/activeadmin_therole_test.png" />}[https://codeclimate.com/github/daanforever/activeadmin_therole_test]
+{<img src="https://gemnasium.com/daanforever/activeadmin_therole_test.png" />}[https://gemnasium.com/daanforever/activeadmin_therole_test]
+{<img src="https://coveralls.io/repos/daanforever/activeadmin_therole_test/badge.png?branch=master" />}[https://coveralls.io/r/daanforever/activeadmin_therole_test?branch=master]
 
 == README
 
