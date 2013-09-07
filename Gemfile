@@ -35,6 +35,7 @@ end
 gem 'activeadmin', github: 'gregbell/active_admin', branch: 'rails4'
 gem 'the_role'
 gem 'activeadmin-therole', '>= 0.0.4'
+gem 'coveralls', require: false
 
 group :development do
   gem 'thin'
