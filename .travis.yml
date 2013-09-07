@@ -1,4 +1,4 @@
 language: ruby
 rvm:
   - 2.0.0
-script: bundle exec rails g activeadmin_therole:install && rake db:migrate && bundle exec rspec
+script: bundle exec rails g activeadmin_therole:install && rake db:test:prepare && bundle exec rspec
